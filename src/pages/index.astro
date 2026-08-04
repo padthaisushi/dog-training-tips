@@ -1,0 +1,60 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+const articles = (await getCollection("articles")).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+<BaseLayout
+  title="Dog Training Tips That Actually Work"
+  description="Practical, step-by-step dog training guides: puppy biting, crate training, leash pulling, barking, potty training, and more."
+>
+  <Header />
+  <main>
+    <h1>Paws & Progress</h1>
+    <p class="intro">
+      Practical, no-nonsense dog training guides — written for real owners with real dogs.
+    </p>
+    <ul class="article-list">
+      {
+        articles.map((article) => (
+          <li>
+            <a href={`/articles/${article.id}/`}>{article.data.title}</a>
+            <p>{article.data.description}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+  .intro {
+    color: var(--color-muted);
+  }
+  .article-list {
+    list-style: none;
+    padding: 0;
+  }
+  .article-list li {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .article-list a {
+    font-size: 1.15rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+  .article-list a:hover {
+    color: var(--color-accent);
+  }
+  .article-list p {
+    margin: 0.35rem 0 0;
+    color: var(--color-muted);
+  }
+</style>
