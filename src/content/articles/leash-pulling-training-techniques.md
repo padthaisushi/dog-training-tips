@@ -4,6 +4,7 @@ description: "Stop leash pulling with proven techniques: the stop-and-go method,
 publishDate: 2026-07-19
 keywords: ["stop dog pulling on leash", "loose leash training", "leash pulling techniques"]
 offerKey: "primary"
+category: "Obedience & Commands"
 ---
 
 Leash pulling happens because it works — pulling gets your dog where they want to go faster. Fixing it means changing that math so a loose leash is what actually gets them there.

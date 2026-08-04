@@ -4,6 +4,7 @@ description: "A beginner's introduction to clicker training: how it works, how t
 publishDate: 2026-08-03
 keywords: ["clicker training for beginners", "how does clicker training work", "clicker training basics"]
 offerKey: "primary"
+category: "Obedience & Commands"
 ---
 
 Clicker training uses a small, distinct sound to mark the exact moment your dog does something right — solving the timing problem that trips up a lot of beginner training. It's simple to start and works for puppies and adult dogs alike.

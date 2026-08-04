@@ -4,6 +4,7 @@ description: "How to recognize true separation anxiety in dogs and a gradual des
 publishDate: 2026-07-25
 keywords: ["separation anxiety in dogs", "dog anxious when left alone", "separation anxiety training"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Separation anxiety is different from simple boredom-driven mischief. It shows up as panic — destructive scratching near exits, non-stop barking or howling, pacing, or accidents that only happen when the dog is alone — and it needs a different training approach.

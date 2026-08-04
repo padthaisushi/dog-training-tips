@@ -4,6 +4,7 @@ description: "Why dogs bark at strangers and a practical desensitization plan to
 publishDate: 2026-07-16
 keywords: ["stop dog barking at strangers", "dog barking at visitors", "reactive dog training"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Barking at strangers is usually rooted in one of three things: fear, territorial instinct, or simple overexcitement. The fix depends on which one you're dealing with — but the training approach shares a common foundation.

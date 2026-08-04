@@ -4,6 +4,7 @@ description: "Why begging happens, why it's so persistent, and a consistent hous
 publishDate: 2026-08-14
 keywords: ["stop dog begging for food", "dog begging at the table", "how to stop dog begging"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Begging survives because it's intermittently rewarded — even if it "works" only one time out of twenty, that occasional payoff is often enough to keep the behavior going strong. Fixing it requires consistency across the whole household, not just willpower at one meal.

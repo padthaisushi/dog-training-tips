@@ -4,6 +4,7 @@ description: "Crate training isn't just for puppies. A patient, adapted method f
 publishDate: 2026-08-08
 keywords: ["crate train an adult dog", "crate training rescue dog", "adult dog crate training"]
 offerKey: "primary"
+category: "Rescue & Multi-Dog Homes"
 ---
 
 Most crate training advice assumes you're starting with an 8-week-old puppy. Adult dogs — especially rescues — often need a slower, more deliberate version of the same process, since they may have no positive crate history, or worse, a negative one.

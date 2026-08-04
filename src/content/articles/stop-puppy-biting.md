@@ -4,6 +4,7 @@ description: "A practical, step-by-step guide to stopping puppy biting and nippi
 publishDate: 2026-07-10
 keywords: ["how to stop puppy biting", "puppy nipping", "puppy bite inhibition"]
 offerKey: "primary"
+category: "Puppy Basics"
 ---
 
 Puppy biting is one of the most common — and most frustrating — problems new owners face. The good news: it's almost always a normal developmental phase, not a sign of aggression, and it responds well to consistent training.

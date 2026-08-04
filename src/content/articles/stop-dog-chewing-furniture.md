@@ -4,6 +4,7 @@ description: "Practical steps to redirect destructive chewing to appropriate out
 publishDate: 2026-08-10
 keywords: ["stop dog chewing furniture", "dog destroying furniture", "how to stop destructive chewing"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Chewing itself is normal dog behavior — it's a natural stress reliever, jaw exerciser, and way to explore the world. The goal isn't to eliminate chewing, but to redirect it firmly onto appropriate items.

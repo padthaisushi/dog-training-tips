@@ -4,6 +4,7 @@ description: "The most common dog training mistakes new owners make — from tim
 publishDate: 2026-08-03
 keywords: ["dog training mistakes", "beginner dog training tips", "common dog training errors"]
 offerKey: "primary"
+category: "General Guides"
 ---
 
 Most training struggles aren't about a "stubborn" or "untrainable" dog — they trace back to a handful of common, fixable mistakes. Here are the ones that show up most often.

@@ -4,6 +4,7 @@ description: "Understanding resource guarding around food, toys, and spaces, and
 publishDate: 2026-08-07
 keywords: ["resource guarding in dogs", "dog guarding food aggression", "how to stop dog guarding toys"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Resource guarding — stiffening, growling, snapping, or lunging when someone approaches food, toys, or a resting spot — is a natural instinct taken to an uncomfortable extreme. It's manageable in most cases, but it needs a careful, structured approach rather than confrontation.

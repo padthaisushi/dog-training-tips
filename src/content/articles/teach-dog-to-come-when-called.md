@@ -4,6 +4,7 @@ description: "A step-by-step recall training plan to build a dog that reliably c
 publishDate: 2026-08-05
 keywords: ["recall training for dogs", "how to teach a dog to come when called", "dog recall command"]
 offerKey: "primary"
+category: "Obedience & Commands"
 ---
 
 A reliable recall can be the single most important cue you teach — it keeps your dog safe around traffic, wildlife, and unpredictable situations. It's also one of the most commonly rushed cues, which is why so many dogs "know" it at home but ignore it outside.

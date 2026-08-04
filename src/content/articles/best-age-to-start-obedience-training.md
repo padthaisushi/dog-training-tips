@@ -4,6 +4,7 @@ description: "When to actually start obedience training your puppy or dog, what 
 publishDate: 2026-07-31
 keywords: ["best age to start obedience training", "when to start training a puppy", "puppy training age"]
 offerKey: "primary"
+category: "Puppy Basics"
 ---
 
 A common myth is that formal training should wait until 6 months old. In reality, informal training can — and should — start the day you bring your puppy home. The "best age" depends more on what you're teaching than a single magic number.

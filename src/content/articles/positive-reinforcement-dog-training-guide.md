@@ -4,6 +4,7 @@ description: "What positive reinforcement training actually means, why it works,
 publishDate: 2026-08-09
 keywords: ["positive reinforcement dog training", "reward based dog training", "how does positive reinforcement work"]
 offerKey: "primary"
+category: "Obedience & Commands"
 ---
 
 Positive reinforcement is the foundation of most modern, evidence-based dog training: rewarding behaviors you want more of, rather than punishing behaviors you want less of. It's simple in concept but easy to apply inconsistently — here's how to do it well.

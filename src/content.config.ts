@@ -1,6 +1,14 @@
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
+export const CATEGORIES = [
+  "Puppy Basics",
+  "Behavior Problems",
+  "Obedience & Commands",
+  "Rescue & Multi-Dog Homes",
+  "General Guides",
+] as const;
+
 const articles = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/articles" }),
   schema: z.object({
@@ -9,6 +17,7 @@ const articles = defineCollection({
     publishDate: z.coerce.date(),
     keywords: z.array(z.string()),
     offerKey: z.string(),
+    category: z.enum(CATEGORIES),
   }),
 });
 

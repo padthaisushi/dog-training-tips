@@ -4,6 +4,7 @@ description: "Two of the most useful safety cues you can teach your dog, with a 
 publishDate: 2026-08-13
 keywords: ["teach dog leave it command", "teach dog drop it command", "leave it drop it training"]
 offerKey: "primary"
+category: "Obedience & Commands"
 ---
 
 "Leave it" and "drop it" solve two different problems — preventing your dog from taking something in the first place, versus getting them to release something they already have — and both are essential safety cues, especially around anything potentially dangerous.

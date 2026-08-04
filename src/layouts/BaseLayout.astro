@@ -45,6 +45,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     --color-accent: #b3541e;
     --color-muted: #746a63;
     --color-border: #e6ddd3;
+    --color-card-bg: #ffffff;
+
+    --cat-puppy-basics-bg: #fdecc8;
+    --cat-puppy-basics-text: #8a5a12;
+    --cat-behavior-problems-bg: #f6d9d0;
+    --cat-behavior-problems-text: #a13f22;
+    --cat-obedience-commands-bg: #d9e9e7;
+    --cat-obedience-commands-text: #1f6b63;
+    --cat-rescue-multi-dog-bg: #e7dcf1;
+    --cat-rescue-multi-dog-text: #5b3a8a;
+    --cat-general-guides-bg: #e3e2df;
+    --cat-general-guides-text: #55524c;
   }
   * {
     box-sizing: border-box;
@@ -57,7 +69,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     line-height: 1.6;
   }
   main {
-    max-width: 720px;
+    max-width: 780px;
     margin: 0 auto;
     padding: 1.5rem;
   }
@@ -66,5 +78,36 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   }
   h1, h2, h3 {
     line-height: 1.25;
+  }
+
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .badge--puppy-basics {
+    background: var(--cat-puppy-basics-bg);
+    color: var(--cat-puppy-basics-text);
+  }
+  .badge--behavior-problems {
+    background: var(--cat-behavior-problems-bg);
+    color: var(--cat-behavior-problems-text);
+  }
+  .badge--obedience-commands {
+    background: var(--cat-obedience-commands-bg);
+    color: var(--cat-obedience-commands-text);
+  }
+  .badge--rescue-multi-dog {
+    background: var(--cat-rescue-multi-dog-bg);
+    color: var(--cat-rescue-multi-dog-text);
+  }
+  .badge--general-guides {
+    background: var(--cat-general-guides-bg);
+    color: var(--cat-general-guides-text);
   }
 </style>

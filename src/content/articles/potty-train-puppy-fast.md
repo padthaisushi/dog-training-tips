@@ -4,6 +4,7 @@ description: "A structured schedule-and-supervision approach to potty training a
 publishDate: 2026-07-22
 keywords: ["potty train a puppy fast", "puppy house training schedule", "how to house train a puppy"]
 offerKey: "primary"
+category: "Puppy Basics"
 ---
 
 There's no shortcut that skips repetition, but you can potty train significantly faster by removing guesswork. Speed comes from tight supervision and a predictable schedule, not from any single trick.

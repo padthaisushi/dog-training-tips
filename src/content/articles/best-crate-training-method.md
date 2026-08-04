@@ -4,6 +4,7 @@ description: "A gentle, effective crate training method that builds a positive a
 publishDate: 2026-07-13
 keywords: ["crate training method", "how to crate train a puppy", "puppy crate training schedule"]
 offerKey: "primary"
+category: "Puppy Basics"
 ---
 
 Crate training done right gives your puppy a safe den of their own — and gives you a reliable tool for house training, travel, and downtime. Done wrong, it creates anxiety. Here's the method that works.

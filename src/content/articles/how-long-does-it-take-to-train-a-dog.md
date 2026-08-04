@@ -4,6 +4,7 @@ description: "Realistic timelines for basic obedience, house training, and behav
 publishDate: 2026-08-04
 keywords: ["how long does it take to train a dog", "dog training timeline", "how long to house train a dog"]
 offerKey: "primary"
+category: "General Guides"
 ---
 
 There's no single answer, but there are realistic ranges — and knowing them helps you set expectations instead of giving up too early or assuming something's wrong.

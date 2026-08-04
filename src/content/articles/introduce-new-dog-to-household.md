@@ -4,6 +4,7 @@ description: "A step-by-step, low-stress plan for introducing a new dog to resid
 publishDate: 2026-08-11
 keywords: ["introduce new dog to household", "how to introduce dogs", "bringing home a second dog"]
 offerKey: "primary"
+category: "Rescue & Multi-Dog Homes"
 ---
 
 First impressions matter — a rushed or chaotic introduction can set a rocky tone that takes months to undo, while a calm, structured one can lead to a smooth transition in days. The key is controlling pace and environment, not hoping everyone "just figures it out."

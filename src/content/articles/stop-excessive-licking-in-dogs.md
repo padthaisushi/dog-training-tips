@@ -4,6 +4,7 @@ description: "Why dogs lick excessively — themselves, objects, or people — a
 publishDate: 2026-08-12
 keywords: ["stop excessive dog licking", "why does my dog lick so much", "dog licking behavior training"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 A little licking is completely normal dog behavior. Excessive, repetitive licking — of paws, surfaces, the air, or people — is worth paying attention to, because it can be behavioral, medical, or both.

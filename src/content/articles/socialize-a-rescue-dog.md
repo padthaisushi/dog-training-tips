@@ -4,6 +4,7 @@ description: "A patient, go-slow approach to socializing a rescue or adopted dog
 publishDate: 2026-07-28
 keywords: ["how to socialize a rescue dog", "socializing an adopted dog", "rescue dog training tips"]
 offerKey: "primary"
+category: "Rescue & Multi-Dog Homes"
 ---
 
 Socializing a rescue dog is different from puppy socialization. You're often working with an unknown history, possible past trauma, and an adult nervous system that's already formed strong associations. The good news: adult dogs can absolutely learn new, positive associations — it just takes a slower, more deliberate approach.

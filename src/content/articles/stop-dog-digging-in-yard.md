@@ -4,6 +4,7 @@ description: "Why dogs dig and a practical plan to redirect digging instincts in
 publishDate: 2026-08-06
 keywords: ["stop dog digging in yard", "why do dogs dig holes", "dog digging solutions"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Digging is rarely random — it's usually driven by boredom, instinct, temperature regulation, or trying to reach something interesting (a scent, a critter, cooler soil). Fixing it means addressing the underlying reason, not just filling in holes.

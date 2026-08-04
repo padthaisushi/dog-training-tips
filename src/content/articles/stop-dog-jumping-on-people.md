@@ -4,6 +4,7 @@ description: "Why dogs jump on people and a consistent, reward-based plan to rep
 publishDate: 2026-08-01
 keywords: ["stop dog from jumping on people", "dog jumping training", "four on the floor training"]
 offerKey: "primary"
+category: "Behavior Problems"
 ---
 
 Jumping is almost always an excitement and attention-seeking behavior — and it keeps happening because it keeps getting attention, even negative attention like pushing the dog off or saying "down." Fixing it means being consistent about what actually earns attention.
