@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/affiliate-dog-training-site/sitemap-index.xml
+Sitemap: https://padthaisushi.github.io/dog-training-tips/sitemap-index.xml
