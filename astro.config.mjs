@@ -6,6 +6,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://padthaisushi.github.io',
-  base: '/dog-training-tips',
+  base: '/dog-training-tips/',
   integrations: [sitemap()]
 });
