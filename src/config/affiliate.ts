@@ -10,9 +10,8 @@ export interface AffiliateOffer {
 
 export const affiliateOffers: Record<string, AffiliateOffer> = {
   primary: {
-    name: "PLACEHOLDER_OFFER_NAME",
-    // TODO: ClickBank承認後、実際のhoplinkに差し替える
-    url: "https://example.com/PLACEHOLDER_HOPLINK",
+    name: "ClickBank Dog Training Program",
+    url: "https://400a1godkmqhfx-047v827t43e.hop.clickbank.net",
     ctaText: "See the Full Training Program",
   },
 };
