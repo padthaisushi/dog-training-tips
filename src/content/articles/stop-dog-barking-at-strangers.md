@@ -5,6 +5,15 @@ publishDate: 2026-07-16
 keywords: ["stop dog barking at strangers", "dog barking at visitors", "reactive dog training"]
 offerKey: "primary"
 category: "Behavior Problems"
+faqs:
+  - question: "Why does my dog bark at every stranger?"
+    answer: "It's usually fear, territorial instinct, or overexcitement. Watch body language: a tucked tail signals fear, a stiff forward posture signals territorial guarding, and a wiggly body suggests excitement."
+  - question: "Should I punish my dog for barking at strangers?"
+    answer: "Not if it's fear-based — punishment tends to increase fear and can make barking worse. Desensitization and rewarding calm behavior work better across all three underlying causes."
+  - question: "How long does it take to stop reactive barking?"
+    answer: "Improvement often takes several weeks of consistent, well-paced desensitization. Fear-based barking generally takes longer to resolve than excitement-based barking."
+  - question: "Does yelling 'quiet' help stop the barking?"
+    answer: "Usually not — it can sound like you're joining in and may increase arousal. Redirecting to an alternative behavior, like going to a mat, tends to work better."
 ---
 
 Barking at strangers is usually rooted in one of three things: fear, territorial instinct, or simple overexcitement. The fix depends on which one you're dealing with — but the training approach shares a common foundation.

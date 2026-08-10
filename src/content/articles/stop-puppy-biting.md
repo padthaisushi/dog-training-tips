@@ -5,6 +5,15 @@ publishDate: 2026-07-10
 keywords: ["how to stop puppy biting", "puppy nipping", "puppy bite inhibition"]
 offerKey: "primary"
 category: "Puppy Basics"
+faqs:
+  - question: "At what age do puppies stop biting?"
+    answer: "Most puppies significantly reduce biting between 4 and 7 months as adult teeth come in, but consistent training speeds this up. Without training, mouthing can persist well into adulthood."
+  - question: "Is it normal for puppies to bite hard?"
+    answer: "Yes, especially during teething (3-6 months). Hard biting is normal exploratory behavior, not aggression, but it still needs to be redirected through bite inhibition training."
+  - question: "Should I yelp when my puppy bites?"
+    answer: "A sharp 'ow!' followed by briefly withdrawing attention mimics how littermates teach bite pressure, and works well for many puppies. If yelping seems to excite your puppy further, simply withdraw and redirect instead."
+  - question: "When should I worry about puppy biting?"
+    answer: "If biting is paired with growling, stiff body language, or escalates despite weeks of consistent training, it's worth following a structured program or consulting a professional rather than troubleshooting alone."
 ---
 
 Puppy biting is one of the most common — and most frustrating — problems new owners face. The good news: it's almost always a normal developmental phase, not a sign of aggression, and it responds well to consistent training.

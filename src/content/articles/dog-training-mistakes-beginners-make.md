@@ -5,6 +5,15 @@ publishDate: 2026-08-03
 keywords: ["dog training mistakes", "beginner dog training tips", "common dog training errors"]
 offerKey: "primary"
 category: "General Guides"
+faqs:
+  - question: "Why is my dog not responding to training?"
+    answer: "The most common causes are poor reward timing, inconsistency across household members, or only practicing in low-distraction settings. Fixing these usually produces faster results than assuming the dog is 'stubborn.'"
+  - question: "How long should a dog training session be?"
+    answer: "5-10 minutes is ideal. Longer sessions often lead to frustration for both you and your dog, and ending on a successful repetition matters more than session length."
+  - question: "Is my dog too old to fix these habits?"
+    answer: "No. Adult dogs can absolutely unlearn ingrained habits — it just requires the same consistency and correct timing as training a puppy, sometimes with more patience."
+  - question: "Should I punish fear-based behavior like growling?"
+    answer: "No. Punishing fear-based growling or barking tends to suppress the warning signal without resolving the underlying fear, which can be riskier long-term."
 ---
 
 Most training struggles aren't about a "stubborn" or "untrainable" dog — they trace back to a handful of common, fixable mistakes. Here are the ones that show up most often.
