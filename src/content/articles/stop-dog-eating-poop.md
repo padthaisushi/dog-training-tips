@@ -5,6 +5,17 @@ publishDate: 2026-08-21
 keywords: ["dog eating poop", "how to stop coprophagia in dogs", "dog eats feces"]
 offerKey: "primary"
 category: "Behavior Problems"
+faqs:
+  - question: "Why does my dog eat poop?"
+    answer: "There is rarely a single cause. Common contributors include normal scavenging instinct, habit learned as a puppy, boredom, attention-seeking, hunger, and occasionally a medical issue such as parasites or poor nutrient absorption. That is why a vet check comes before a training plan when the behavior is new or sudden."
+  - question: "Is it harmful for a dog to eat poop?"
+    answer: "Eating their own stool is usually low risk for a healthy dog, but eating the feces of other dogs or animals can pass on parasites and other infections. Keep parasite prevention up to date and ask your vet if you notice vomiting, diarrhea or weight loss."
+  - question: "Do puppies grow out of eating poop?"
+    answer: "Many do. It is common in puppies and often fades as they mature, especially if the yard is kept clean so the habit is not rehearsed. If it continues into adulthood, treat it as a habit that needs management and training rather than waiting."
+  - question: "Do stool-deterrent supplements or food additives work?"
+    answer: "Results are inconsistent. Some owners report improvement, but there is little solid evidence that deterrent products work reliably, and they do nothing about other animals' feces. Prompt cleanup, supervision and a strong leave-it cue are more dependable. Ask your vet before adding any supplement."
+  - question: "When should I see a vet about my dog eating poop?"
+    answer: "See your vet if the behavior starts suddenly in an adult dog, or comes with weight loss, a big change in appetite, diarrhea, vomiting or low energy. These can point to a medical cause that training alone will not fix."
 ---
 
 Coprophagia (eating feces) is unpleasant but common, and in most cases isn't a sign of a "bad" dog — it can stem from instinct, nutrition, learned habit, or occasionally an underlying medical issue. A combination of management and training is usually the most effective path.
