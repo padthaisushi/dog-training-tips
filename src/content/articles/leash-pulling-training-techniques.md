@@ -5,6 +5,17 @@ publishDate: 2026-07-19
 keywords: ["stop dog pulling on leash", "loose leash training", "leash pulling techniques"]
 offerKey: "primary"
 category: "Obedience & Commands"
+faqs:
+  - question: "Why does my dog pull on the leash?"
+    answer: "Pulling usually works: it gets your dog to smells, people and other dogs faster. Dogs also naturally walk faster than people, and excitement at the start of a walk makes it worse. Training changes the rule so that only a loose leash moves you forward."
+  - question: "Why does my dog pull hardest at the start of the walk?"
+    answer: "Built-up energy and excitement peak in the first few minutes. A short sniff break or a simple pattern game before you set off, and calm leash-clipping at the door, often reduce early pulling more than corrections do."
+  - question: "How long does loose-leash training take?"
+    answer: "Many dogs show progress within a couple of weeks of short, consistent sessions, but walking nicely in busy places can take a few months. Progress is faster when you avoid long walks where pulling is rewarded the whole way."
+  - question: "Are front-clip harnesses or head halters better than a collar?"
+    answer: "A front-clip harness reduces pulling leverage and is a common, gentle choice. Head halters can help some dogs but need careful introduction. Neither replaces training, and if your dog coughs or seems uncomfortable on a collar, ask your vet."
+  - question: "What if my dog lunges or barks at other dogs on leash?"
+    answer: "That is usually leash reactivity rather than ordinary pulling and needs a different plan built around distance and calm exposure. For strong reactions or any aggression, work with a qualified trainer or behaviorist."
 ---
 
 Leash pulling happens because it works — pulling gets your dog where they want to go faster. Fixing it means changing that math so a loose leash is what actually gets them there.
@@ -25,4 +36,4 @@ Leash pulling happens because it works — pulling gets your dog where they want
 
 ## Building a Loose-Leash Habit
 
-Expect short, frequent training walks (10–15 minutes, several times a week) to progress faster than occasional long walks where old habits get rehearsed the whole way. For dogs with strong pulling habits already ingrained, a structured leash-training program can give you a clear week-by-week plan instead of trial and error.
+If your dog lunges or barks at other dogs rather than just pulling, see [leash reactivity training](../stop-leash-reactivity-other-dogs/) instead. Expect short, frequent training walks (10–15 minutes, several times a week) to progress faster than occasional long walks where old habits get rehearsed the whole way. For dogs with strong pulling habits already ingrained, a structured leash-training program can give you a clear week-by-week plan instead of trial and error.
