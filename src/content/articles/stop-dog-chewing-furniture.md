@@ -5,6 +5,17 @@ publishDate: 2026-08-10
 keywords: ["stop dog chewing furniture", "dog destroying furniture", "how to stop destructive chewing"]
 offerKey: "primary"
 category: "Behavior Problems"
+faqs:
+  - question: "Why does my dog only chew furniture when I leave?"
+    answer: "Chewing that happens only when your dog is alone can come from boredom, but if it is focused on doors, windows or your belongings and starts soon after you leave, it may be separation-related stress. A short video recording after you leave can help you tell the difference."
+  - question: "At what age do puppies stop chewing everything?"
+    answer: "The most intense chewing usually happens during teething, around 3 to 6 months. Many dogs continue exploratory chewing until 1 to 2 years old, and most dogs enjoy chewing throughout life, so the goal is to guide it onto the right items rather than stop it."
+  - question: "Do bitter apple sprays work?"
+    answer: "They can help protect a specific table leg or corner, but some dogs don't mind the taste and others get used to it. Test a hidden spot first so you don't damage the finish, and use sprays alongside management and good chew toys, not as the only fix."
+  - question: "Should I punish my dog for chewing furniture after the fact?"
+    answer: "No. Dogs don't connect a scolding to chewing that happened minutes or hours earlier, so punishment only makes you less predictable. Calmly clean up, then adjust management so it can't happen again while you aren't watching."
+  - question: "What are safe chew toys for a dog that destroys furniture?"
+    answer: "Look for durable rubber toys that can be stuffed with food, sized so your dog can't swallow them. Supervise with new toys, throw away pieces that break off, and ask your vet before giving very hard items like antlers or bones, which can damage teeth."
 ---
 
 Chewing itself is normal dog behavior — it's a natural stress reliever, jaw exerciser, and way to explore the world. The goal isn't to eliminate chewing, but to redirect it firmly onto appropriate items.
@@ -23,6 +34,8 @@ Chewing itself is normal dog behavior — it's a natural stress reliever, jaw ex
 3. **Redirect immediately, calmly.** If you catch your dog chewing furniture, calmly interrupt and offer an appropriate chew toy instead — then praise when they take it.
 4. **Increase overall exercise and enrichment.** Daily walks, puzzle feeders, and training sessions burn mental and physical energy that would otherwise go toward destructive outlets.
 5. **Use taste deterrents as a supplement, not a fix.** Bitter sprays can help protect specific items, but they work best alongside — not instead of — management and redirection.
+
+If the chewing only happens when your dog is left alone and centers on exits, read our guide to [separation anxiety training](../separation-anxiety-training-tips/). Teaching [leave it and drop it](../teach-leave-it-and-drop-it/) also gives you a calm way to interrupt chewing in the moment.
 
 ## Common Mistakes
 
